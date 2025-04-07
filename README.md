@@ -11,7 +11,7 @@
 
 <body>
 
-<h1>Welcome to My Website Repository</h1>
+<h1>SYNT Cloud Service Website</h1>
 
 <p>This repository contains the source code and assets for a comprehensive digital service website, featuring products, pricing plans, features, contact, and support pages.</p>
 
