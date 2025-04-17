@@ -103,6 +103,18 @@ body{
     margin-inline: 600px;
 }
 
+.main-content-container{
+    justify-items: center;
+}
+
+.main-input-credentials-container{
+    justify-items: center;
+}
+
+.main-submit-btn-container{
+    margin-top: 50px;
+}
+
 .main-contact-container{
     border: 1px gray solid;
     border-radius: 10px;
