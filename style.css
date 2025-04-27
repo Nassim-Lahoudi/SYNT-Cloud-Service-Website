@@ -107,6 +107,16 @@ body{
     justify-items: center;
 }
 
+.partners{
+    display: flex;
+    justify-content: center;
+}
+
+.main-partners-img-css{
+    width: auto;
+    height: 250px;
+}
+
 .main-input-credentials-container{
     justify-items: center;
 }
